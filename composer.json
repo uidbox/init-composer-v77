@@ -1,0 +1,19 @@
+{
+  "name": "v77/init",
+  "description": "",
+  "type": "project",
+  "license": "MIT",
+  "homepage": "https://v77.dev/",
+  "keywords": ["v77", "russian"],
+  "support": {
+    "source": "https://github.com/v77/init-composer",
+    "issues": "https://github.com/v77/init-composer/issues",
+    "docs": "https://github.com/v77/init-composer/wiki",
+    "forum": "https://github.com/v77/init-composer/discussions"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "prepend-autoloader": false,
+    "sort-packages": true
+  }
+}
